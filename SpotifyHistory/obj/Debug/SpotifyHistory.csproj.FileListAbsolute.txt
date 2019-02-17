@@ -1,0 +1,11 @@
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\bin\Debug\SpotifyHistory.exe.config
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\bin\Debug\SpotifyHistory.exe
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\bin\Debug\SpotifyHistory.pdb
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\bin\Debug\Newtonsoft.Json.dll
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\bin\Debug\SpotifyAPI.dll
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\bin\Debug\Newtonsoft.Json.xml
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\bin\Debug\SpotifyAPI.xml
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\obj\Debug\SpotifyHistory.csprojResolveAssemblyReference.cache
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\obj\Debug\SpotifyHistory.csproj.CoreCompileInputs.cache
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\obj\Debug\SpotifyHistory.exe
+J:\Documents\SpotifyHistory\SpotifyHistory\SpotifyHistory\obj\Debug\SpotifyHistory.pdb
